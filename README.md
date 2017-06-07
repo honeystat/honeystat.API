@@ -1,1 +1,1 @@
-# honeystatapi
+# honeystat.api
